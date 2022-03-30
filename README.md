@@ -1,2 +1,2 @@
 # reg-paper-data
-Replication data for regularization paper (with J. Schroeder)
+Replication data and code for regularization paper (with J. Schroeder), currently under review. 
